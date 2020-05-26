@@ -160,6 +160,12 @@ github.com/dneray/opentelemetry-collector v0.3.0-duration-filter h1:kZOizLDOia92
 github.com/dneray/opentelemetry-collector v0.3.0-duration-filter/go.mod h1:c5EgyLBK6FoGCaJpOEQ0j+sHqmfuoRzOm29tdVA/wDg=
 github.com/dneray/opentelemetry-collector v0.3.1-0.20200526054336-54aac8295998 h1:xJNhtvP9dOXhPcwNW2WV9kZ9Acn4ti5iQ6bDbsssn+0=
 github.com/dneray/opentelemetry-collector v0.3.1-0.20200526054336-54aac8295998/go.mod h1:c5EgyLBK6FoGCaJpOEQ0j+sHqmfuoRzOm29tdVA/wDg=
+github.com/dneray/opentelemetry-collector v0.3.1 h1:geRHLxxJMtIOP8M6LuRrU/nR1cUJxUMyUfCL/GCHKG0=
+github.com/dneray/opentelemetry-collector v0.3.1/go.mod h1:c5EgyLBK6FoGCaJpOEQ0j+sHqmfuoRzOm29tdVA/wDg=
+github.com/dneray/opentelemetry-collector v0.3.2 h1:Swiq/A0Qe7jjPLWsi0QoPyiKjuvuZAnH7O4b7EDFSiY=
+github.com/dneray/opentelemetry-collector v0.3.2/go.mod h1:c5EgyLBK6FoGCaJpOEQ0j+sHqmfuoRzOm29tdVA/wDg=
+github.com/dneray/opentelemetry-collector v0.3.3 h1:tIhEm6yUDPDqcoxJ1rf0pihHIKotDBL6yBtP6psaFsI=
+github.com/dneray/opentelemetry-collector v0.3.3/go.mod h1:c5EgyLBK6FoGCaJpOEQ0j+sHqmfuoRzOm29tdVA/wDg=
 github.com/docker/go-connections v0.4.0/go.mod h1:Gbd7IOopHjR8Iph03tsViu4nIes5XhDvyHbTtUxmeec=
 github.com/docker/go-units v0.3.3/go.mod h1:fgPhTUdO+D/Jk86RDLlptpiXQzgHJF7gydDDbaIK4Dk=
 github.com/docker/go-units v0.4.0/go.mod h1:fgPhTUdO+D/Jk86RDLlptpiXQzgHJF7gydDDbaIK4Dk=
