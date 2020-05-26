@@ -5,7 +5,7 @@ go 1.14
 require (
 	github.com/client9/misspell v0.3.4
 	github.com/google/addlicense v0.0.0-20200301095109-7c013a14f2e2
-	github.com/open-telemetry/opentelemetry-collector v0.2.10
+	github.com/open-telemetry/opentelemetry-collector v0.3.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/awsxrayexporter v0.0.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/azuremonitorexporter v0.0.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/carbonexporter v0.0.0
@@ -69,3 +69,5 @@ replace github.com/open-telemetry/opentelemetry-collector-contrib/receiver/zipki
 replace github.com/open-telemetry/opentelemetry-collector-contrib/processor/k8sprocessor => ./processor/k8sprocessor/
 
 replace k8s.io/client-go => k8s.io/client-go v0.0.0-20190620085101-78d2af792bab
+
+replace github.com/open-telemetry/opentelemetry-collector v0.3.0 => github.com/dneray/opentelemetry-collector v0.3.1-0.20200526054336-54aac8295998
